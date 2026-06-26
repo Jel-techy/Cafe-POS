@@ -6,16 +6,6 @@ float dessert(int yes);
 float refreshments(int yes);
 int order;
 
-/* 
-Group 2
-Rainjel Agrabio
-Sheila Mae Artiaga
-Cyrell Vincent Parantar
-Mary Cheele Cariman
-Lito Banday
-Rufina Ferolino
-*/
-
 int main()
 {
 
